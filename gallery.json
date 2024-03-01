@@ -1,0 +1,28 @@
+{
+    "painting" : [
+        {
+            "src": "pic1.jpg",
+            "price": 120
+        },
+        {
+            "src": "pic2.jpg",
+            "price": 200
+        },
+        {
+            "src": "pic3.jpg",
+            "price": 70
+        },
+        {
+            "src": "pic4.jpg",
+            "price": 400
+        },
+        {
+            "src": "pic5.jpg",
+            "price": 250
+        },
+        {
+            "src": "pic6.jpg",
+            "price": 300
+        }
+    ]
+}
